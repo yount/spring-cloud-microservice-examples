@@ -1,4 +1,5 @@
 
+*.iml
 .idea/
 /cloud-config-server/target/
 /cloud-eureka-server/target/
@@ -18,3 +19,5 @@ cloud-finagle-thrift-client/target/
 cloud-finagle-thrift-server/target/
 cloud-dummy-service/target/
 cloud-uaa-service/target/
+
+
